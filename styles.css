@@ -1,5 +1,8 @@
 
 /* Your CSS Code here. */
+html{
+	background-color: none;
+}
 table, td, th{
     border: 1px solid black;
     text-align: center;
